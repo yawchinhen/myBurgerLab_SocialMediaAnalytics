@@ -24,7 +24,7 @@ This project analyzes the **social media strategy and performance** of myBurgerL
 ## 📂 Project Structure  
 - ├── data/ # Raw engagement & comment datasets
 - ├── notebooks/ # Python scripts for sentiment & clustering
-- ├── dashboards/ # Tableau / Power BI dashboards
+- ├── dashboards/ # Tableau dashboards
 - ├── README.md # Project documentation
 
 ## 📈 Deliverables  
